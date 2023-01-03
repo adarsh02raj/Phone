@@ -1,0 +1,11 @@
+D:\Study\Self\projects\Garbage\garbage\garbage\bin\Debug\garbage.exe.config
+D:\Study\Self\projects\Garbage\garbage\garbage\bin\Debug\garbage.exe
+D:\Study\Self\projects\Garbage\garbage\garbage\bin\Debug\garbage.pdb
+D:\Study\Self\projects\Garbage\garbage\garbage\obj\Debug\garbage.csproj.AssemblyReference.cache
+D:\Study\Self\projects\Garbage\garbage\garbage\obj\Debug\garbage.csproj.SuggestedBindingRedirects.cache
+D:\Study\Self\projects\Garbage\garbage\garbage\obj\Debug\garbage.Form1.resources
+D:\Study\Self\projects\Garbage\garbage\garbage\obj\Debug\garbage.Properties.Resources.resources
+D:\Study\Self\projects\Garbage\garbage\garbage\obj\Debug\garbage.csproj.GenerateResource.cache
+D:\Study\Self\projects\Garbage\garbage\garbage\obj\Debug\garbage.csproj.CoreCompileInputs.cache
+D:\Study\Self\projects\Garbage\garbage\garbage\obj\Debug\garbage.exe
+D:\Study\Self\projects\Garbage\garbage\garbage\obj\Debug\garbage.pdb
